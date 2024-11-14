@@ -18,8 +18,6 @@ The dataset used in this project originates from the Central Superstore's sales 
 - **Product Details**: `Product ID`, `Category`, `Sub-Category`, `Product Name`
 - **Sales Metrics**: `Sales`, `Quantity`, `Discount`, `Profit`
 
-This data provides a comprehensive view of the Central region's sales activities, enabling a multidimensional analysis of the business.
-
 ## Key Questions Answered
 The dashboard is designed to answer critical business questions:
 1. **What are the monthly sales trends?**
